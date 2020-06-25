@@ -1,2 +1,2 @@
 # HTB-Writeups
-Retired HTB Writeups(Updated EveryWeek).
+Retired HTB Writeups(Updated Every Week).
